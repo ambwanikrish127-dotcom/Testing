@@ -1,0 +1,14 @@
+# Network Monitoring Dashboard - Backend Requirements
+
+# System and Network Utilities
+psutil==7.1.0
+
+# WebSocket Support
+websockets==15.0.1
+
+# For Google Gemini API
+google-generativeai==0.7.1
+python-dotenv==1.2.1
+
+# Geo Map
+aiohttp==3.12.13
